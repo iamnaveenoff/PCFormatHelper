@@ -7,7 +7,7 @@ for val in ${StringArray[@]}; do
 done
 done
 
-coloe=$'\e[0;33m'
+color=$'\e[0;33m'
 
 echo -e "\n \n \n \n${color} Hit enter to continue or Press Ctrl + C to Cancel\n\n\n"
 read var
